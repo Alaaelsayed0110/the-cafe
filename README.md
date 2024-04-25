@@ -1,3 +1,3 @@
-"# the-cate"
+"# the-cafe"
 
-https://alaaelsayed0110.github.io/the-cate/
+https://alaaelsayed0110.github.io/the-cafe/
